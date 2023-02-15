@@ -14,3 +14,9 @@
 .square.green{
     background-color: #054c80;
 }
+.square{
+    width: 150px;
+    height: 150px;
+    margin: 0 4px 8px ;
+    float: left;
+}
