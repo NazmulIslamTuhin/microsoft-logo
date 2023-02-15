@@ -4,13 +4,16 @@
     margin-top: 100px;
 }
 .square.red{
-    background-color: #f35322;
+    background-color:red ;
+}
+.square.red:hover{
+    background-color: #b23008;
 }
 .square.blue{
-    background-color: #b504ea;
+    background-color: rgb(255, 179, 0);
 }
 .square.yellow{
-    background-color: #13f90b;
+    background-color: #0b62f9;
 }
 .square.green{
     background-color: #054c80;
