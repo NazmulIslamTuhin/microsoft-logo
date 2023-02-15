@@ -12,6 +12,9 @@
 .square.blue{
     background-color: rgb(255, 179, 0);
 }
+.square.blue:hover{
+    background-color: rgb(255, 140, 0);
+}
 .square.yellow{
     background-color: #0b62f9;
 }
