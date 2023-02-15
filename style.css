@@ -7,7 +7,7 @@
     background-color:red ;
 }
 .square.red:hover{
-    background-color: #b23008;
+    background-color: #e85106;
 }
 .square.blue{
     background-color: rgb(255, 179, 0);
@@ -16,7 +16,10 @@
     background-color: #0b62f9;
 }
 .square.green{
-    background-color: #054c80;
+    background-color: #0690f4;
+}
+.square.green:hover{
+    background-color: #086cb3;
 }
 .square{
     width: 150px;
